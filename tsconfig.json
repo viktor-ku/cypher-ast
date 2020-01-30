@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "build",
+    "skipDefaultLibCheck": true,
+    "strict": true,
+    "module": "CommonJS",
+    "target": "ES2020"
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
